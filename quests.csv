@@ -1,0 +1,147 @@
+qst_deliver_message|Dostarcz wiadomość dla {s13}
+qst_deliver_message_text|{s9} prosi Cię o dostarczenie wiadomości dla {s13}. {s13} był w {s4} kiedy otrzymałeś to zadanie.
+qst_deliver_message_to_enemy_lord|Dopilnuj, by {s13} otrzymał wiadomość
+qst_deliver_message_to_enemy_lord_text|{s9} prosi Cię byś wziął wiadomość dla {s13} z {s15}. {s13} był w {s4} kiedy otrzymałeś to zadanie.
+qst_raise_troops|Szkolenie - {s14} w liczbie {reg1} 
+qst_raise_troops_text|{s9} prosi Cię byś podniósł {reg1} {s14} i przyniósł go do niego.
+qst_escort_lady|{s13} winna być odeskortowana do miejscowości {s14}
+qst_deal_with_bandits_at_lords_village|Uratuj wioske {s15} przed panoszącymi sie tam bandytami
+qst_deal_with_bandits_at_lords_village_text|{s13} poprosił abyś zajął się bandytami, którzy schronili się w jego wiosce {s15} po czym zgłosił się do niego.
+qst_collect_taxes|Zbierz podatki z miejscowosci {s3}
+qst_collect_taxes_text|{s9} poprosił Cię abyś zebrał podatki z miescowości {s3}. Zaproponował, że zostawi Ci jedną piątą wszystkich pieniędzy jakie tam zbierzesz.
+qst_hunt_down_fugitive|Odszukaj bandytę zwanego {s4}
+qst_hunt_down_fugitive_text|{s9} poprosił abyś dopadł bandytę zwanego {s4}. Obecnie uważa się, że przebywa w miescowości {s3}.
+qst_kill_local_merchant|Zabij miejscowego kupca w miejscowości {s3}
+qst_kill_local_merchant_text|{s9} poprosił Cię o zabicie miescowego kupca w miejscowości {s3}.
+qst_bring_back_runaway_serfs|Sprowadź zbiegłych poddanych
+qst_bring_back_runaway_serfs_text|{s9} poprosił abyś sprowadził trzy grupy zbiegłych poddanych z powrotem do {s2}. Powiedział, że wszystkie grupy muszą uciekać w stronę {s3}.
+qst_follow_spy|Podążaj za szpiegiem na spotkanie
+qst_follow_spy_text|{s11} poprosił byś podążał za szpiegiem na spotkanie z {s12}. Musisz być uważny i nie zostać zauważonym przez szpiega, inaczej może nabrać podejżeń i zawrócić. Kiedy szpieg spotka się ze swoim wspólnikiem, zaczaj się, złap ich i przyprowadź obu do {s11}.
+qst_capture_enemy_hero|Porwij lorda z miejscowości {s13}
+qst_lend_companion|Zaprowadź swojego towarzysza o imieniu {s3} do miejscowości {s9}
+qst_lend_companion_text|{s9} poprosił by {s3} towarzyszył mu przez tydzień.
+qst_collect_debt|{s3} jest dłużny osobie o imieniu {s9}
+qst_collect_debt_text|{s9} poprosił byś zebrał dług w wysokości {reg4} penings {s3}, które mu się należą.
+qst_incriminate_loyal_commander|Obciążenie winą lojalnego dowódcę którym jest {s13}, {s16}
+qst_meet_spy_in_enemy_town|Spotkaj się ze szpiegiem w miejscowości {s13}
+qst_capture_prisoners|Przyprowadź {reg1} wieśniaków którzy winni być {s3}
+qst_capture_prisoners_text|{s9} pragnie byś doprowadził {reg1} {s3} do niewoli
+qst_lend_surgeon|{s1} pragnie wypożyczyć twojego chirurga o imieniu {s3}
+qst_lend_surgeon_text|Pożycz swojego doświadczonego chirurga {s3} dla {s1}.
+qst_follow_army|Podążaj za armią której dowódcą jest {s9}
+qst_report_to_army|Złóż raport marszałkowi {s13}
+qst_deliver_cattle_to_army|Dostarcz {reg3} szt. bydła do {s3}
+qst_join_siege_with_army|Dołącz do oblężenia miejscowości {s14}
+qst_screen_army|Osłaniaj marsz armii, na której czele stoi {s13}
+qst_scout_waypoints|Przeprowadź zwiad w miejscowości {s13}, {s14} i {s15}
+qst_rescue_lord_by_replace|Uratuj osobe o imieniu {s13} z miejscowości {s14}
+qst_deliver_message_to_prisoner_lord|Dostarcz wiadomość osobie o imieniu {s13} w miejscowości {s14}
+qst_duel_for_lady|Rzuć wyzwanie Próby Sił osobie zwanej {s13}
+qst_duel_courtship_rival|Rzuć wyzwanie Próby Sił osobie zwanej {s13} (opcjonalnie)
+qst_duel_avenge_insult|Rzuć wyzwanie Próby Sił osobie zwanej {s13}
+qst_move_cattle_herd|Przeprowadź bydło do miejscowości {s13}
+qst_move_cattle_herd_text| {s10} poprosił Cię byś przeprowadził stado bydła do {s13}.
+qst_escort_merchant_caravan|Eskortuj karawane do miejscowości {s8}
+qst_escort_merchant_caravan_text|Eskortuj karawanę do miescowości {s8}.
+qst_deliver_wine|Dostarcz {reg5} jednostek towaru, którym jest {s6}, do miejscowości {s4}
+qst_deliver_wine_text|{s9} z {s3} poprosił Cię byś dostarczył {reg5} jednostek towaru, którym jest {s6} do miejscowości {s4} w 7 dni.
+qst_troublesome_bandits|Pozbądź sie kłopotliwych bandytów
+qst_troublesome_bandits_text|{s9} z {s4} poprosił byś pozbył się kłopotliwych bandytów z okolic miejscowości.
+qst_kidnapped_girl|Dziewczyna porwana dla okupu
+qst_kidnapped_girl_text|Jarl z {s4} ,daje Ci {reg12} penings abyś zapłacił okup za dziewczynę porwaną przez bandytów. Bandytów spotkasz nieopodal {s3} i zapłać im okup. Po wszystkim, doprowadź dziewczynę do {s4}.
+qst_persuade_lords_to_make_peace|Dopilnuj aby dwaj lordowie nie przeszkodzili w zawarciu pokoju
+qst_persuade_lords_to_make_peace_text|Jarl z {s4} obiecał Ci {reg12} penings jeśli będziesz miał pewność, że {s12} i {s13} nie stworzą więcej zagrożenia dla pokoju pomiędzy {s15} i {s14}. Aby to uczynić, musisz przekonać ich lub wtrącić ich do niewoli i upewnić się, że pozostaną tam do czasu wykonania porozumienia pokojowego.
+qst_deal_with_looters|Rozpraw sie z grabieżcami
+qst_deal_with_looters_text|Jarl z {s4} poprosił Cię abyś zajął się grabieżcami wokół {s4}, i przyniósł mu wszelki towary jakie uda ci się odzyskać.
+qst_deal_with_night_bandits|Rozpraw sie z nocnymi bandytami
+qst_deliver_grain|Dostarcz zboże do miejscowości {s3}
+qst_deliver_grain_text|Starszy z {s3} poprosił Cię o dostarczenie {reg5} jednostek zboża..
+qst_deliver_cattle|Dostarcz {reg5} szt.bydła do miejscowości {s3}
+qst_deliver_cattle_text|Starszy z {s3} poprosił Cię o dostarczenie {reg5} sztuk bydła.
+qst_train_peasants_against_bandits|Wyszkol chłopów z wioski {s13} do walki z bandytami
+qst_eliminate_bandits_infesting_village|Odbij wioske {s7} z rąk bandytów
+qst_eliminate_bandits_infesting_village_text|Wieśniak z {s7} porosił o odbicie wioski z rąk bandytów, którzy znaleźli sobie w niej schronienie.
+qst_visit_lady|Odwiedź dame
+qst_formal_marriage_proposal|Formalna propozycja zaślubin
+qst_obtain_liege_blessing|Prośba o błogosławieństwo
+qst_wed_betrothed|Poślub wybranke
+qst_wed_betrothed_female|Poślub wybrańca
+qst_join_faction|ZĹ‚ĂłĹĽ przysięga hołdu państwu o nazwie {s1}
+qst_join_faction_text|Znajdź {s1} i oddaj mu przysięgę hołd.
+qst_rebel_against_kingdom|Przyłącz się do {s13} aby mógł objąć władzę nad państwem o nazwie {s14}
+qst_consult_with_minister|Skonsultuj z ministrem
+qst_consult_with_minister_text|Skonsultuj się z ministrem {s11}, który obecnie jest w {s12}
+qst_organize_feast|Zorganizuj ucztę
+qst_organize_feast_text|Przynieś towary na ucztę dla swojego małżonka {s11}, który obecnie jest w {s12}
+qst_resolve_dispute|Rozstrzygnij spór
+qst_resolve_dispute_text|Rozstrzygnij spór pomiędzy {s11} i {s12}
+qst_offer_gift|Przyjmij prezent
+qst_offer_gift_text|Daj {s10} prezent w celu zapewnienia {reg4?her:his} {s11}, {s12}
+qst_denounce_lord|Potęp lorda
+qst_denounce_lord_text|Potęp {s11} publicznie
+qst_intrigue_against_lord|Knuj intrygi przeciw lordowi
+qst_intrigue_against_lord_text|Skrytykuj {s11} prywatnie
+qst_track_down_bandits|Wytrop bandytów
+qst_track_down_bandits_text|{s9} z {s4} poprosił Cę byś wytropił {s6}, który zaatakował ludzi na drogach nieopodal miasta.
+qst_track_down_provocateurs|Wytrop prowokatorów
+qst_track_down_provocateurs_text|{s9} z {s4} porposił Cię byś wytropił prowokatorów zatrudnionych do stworzenia intrygi na granicy {s5} i {s6}.
+qst_retaliate_for_border_incident|Weź odwet za incydent graniczny
+qst_retaliate_for_border_incident_text|{s9} z {s4} poprosił Cię byś pokonał {s5} z {s7} w bitwie, łagodząc napięcie w {s8} by iść na wojnę.
+qst_raid_caravan_to_start_war|Zaatakuj karawanę by wywołać wojne
+qst_cause_provocation|Sprowokuj inne królestwo do ataku na drugie
+qst_rescue_prisoner|Uratuj lub wykup więźniaa
+qst_destroy_bandit_lair|Zniszcz kryjówke rozbójników
+qst_destroy_bandit_lair_text|{s9} z {s4} poprosił Cię byś odnalazł {s6} i zniszczył go.
+qst_kennemer_jarl|Zemsta: Porozmawiaj z Jarlem Kennemerem.
+qst_kennemer_jarl_missions|Zemsta: Praca dla Jarla.
+qst_kennemer_mission_1|Sąd w Świątyni
+qst_kennemer_mission_2|Thiaderd musi umrzeć.
+qst_kennemer_mission_3|Zabić króla.
+qst_reginhard_donations|Petycja Reginhara: Dotacja na ofiary wojny.
+qst_recruit_an_army|Misja Jarla: Rekrutacja wojowników.
+qst_doccinga_assault|Atak Wikingów: Ocal Doccinga od napaści Svena.
+qst_doccinga_interrogation|Atak Wikingów: Przesłuchanie Wikinga.
+qst_getting_ship|Atak Wikingów: Dziewczyna i Łódź.
+qst_notes_companions|Notatki Towarzyszy.
+qst_notes_global|Notatki Ogólne.
+qst_notes_frisa| Notatki o Fryzji.
+qst_notes_danmork|Notatki o Danii
+qst_notes_englaland|Notatki o Anglii.
+qst_sven_lair|Zemsta: Wilcze legowisko.
+qst_danmork_protection|Zemsta: Pod skrzydłami króla Horeka
+qst_revenge_sigurd|Zemsta: Zapytaj Sigurda Wężowe Oko
+qst_collect_smen|Misja Sigurda: Rekruj armię dla Sigurda.
+qst_bodo_letter|Zemsta: Odtworzenie bardzo ważnego listu.
+qst_the_holmgang| Holmgang: Zabójstwo Hirdmana
+qst_the_fleet|Zemsta: Najazd na Anglię.
+qst_sven_traitor|Zemsta: Swen Zdrajca.
+qst_wessex_foragers|Oblężenie: Zachodnie Wessex wozy z nawozem
+qst_the_messengersn|Oblężenie: Posłaniec
+qst_the_alliance|Zemsta: Przymierze
+qst_welsh_and_pictish|Zdobywca: Dostarczanie powodów.
+qst_cathach_colum|Będąc Wikingiem: Cathach of Colum Cille-Księga Bojownika
+qst_entregando_pieles|Będąc Wikingiem: Handel futrami.
+qst_revenge_exchange|Zemsta: Farma
+qst_ulf_testigo|Chroniąc głowę: Zalecając Rolników i Jarla
+qst_the_thing|Zemsta: Zgromadzenie
+qst_douar_an_enez|Zemsta:Douar-an-Enez
+qst_aescesdun|Bitwa:Aescesdun.
+qst_svenbn_final|Zemsta: Sven Bycza Szyja.
+qst_old_roman|Mur Hadriana: Ocal Głodnych
+qst_vc_menu|Viking conquest menu system.
+qst_vc_wounds|Viking conquest wound system.
+qst_sea_battle_spawn|a spawning system.
+qst_team_0_ships|a spawning system.
+qst_team_1_ships|a spawning system.
+qst_blank_quest_2|Eskortuj biskupa do {s14}.
+qst_blank_quest_6|Uchwyć i doprowadź {reg5} kobiet do {s3}
+qst_blank_quest_6_text|Starszy z {s3} poprosił Cię o doprowadzenie {reg5} kobiet do wioski (do niewoli).
+qst_blank_quest_16|Przynieś {reg25} kawałków {s17} do {s11}
+qst_blank_quest_16_text|{s11} poprosiła, być przyniósł jej {reg25} kawałków {s17}.
+qst_blank_quest_17|Przynieś 2 kawałki sera i {reg25} butelek wina dla {s11}
+qst_blank_quest_17_text|{s11} poprosiła byś przyniósł jej 2 kawałki sera i {reg25} butelek wina.
+qst_collect_men|Zemsta: Odwiedź Doccinga
+qst_learn_where_merchant_brother_is|Zemsta: Porozmawiaj z Jarlem Kennemerem.
+qst_save_relative_of_merchant|Zaatakuj kryjówkę bandytów.
+qst_save_town_from_bandits|Ochroń miasto przed bandytami.
+qst_quests_end|Koniec zadań
