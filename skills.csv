@@ -1,0 +1,84 @@
+skl_trade|Trade
+skl_trade_desc|Każdy poziom tej zdolności redukuje karę kupna/sprzedaży o 5%%. (Zdolność drużyny)
+skl_leadership|Przywództwo
+skl_leadership_desc|Każdy punkt powiększa maksymalną liczbę żołnierzy którymi możesz dowodzić o 5, wpływa na morale oddziału i zmniejsza żołd. (Zdolność dowódcy)
+skl_prisoner_management|Zarządzanie więźniami
+skl_prisoner_management_desc|Każdy poziom tej zdolności zwiększa maksymalną liczbę więźniów o %d. (Zdolność dowódcy)
+skl_reserved_1|Zdolność zarezerwowana 1
+skl_reserved_1_desc|To jest zdolność zarezerwowana.
+skl_reserved_2|Zdolność zarezerwowana 2
+skl_reserved_2_desc|To jest zdolność zarezerwowana.
+skl_reserved_3|Zdolność zarezerwowana 3
+skl_reserved_3_desc|To jest zdolność zarezerwowana.
+skl_reserved_4|Zdolność zarezerwowana 4
+skl_reserved_4_desc|To jest zdolność zarezerwowana.
+skl_persuasion|Perswazja
+skl_persuasion_desc|Ta zdolność sprawia, że ludzie przyjmują twój punkt widzenia. Obniża ona również poziom, jaki trzeba posiadać, by nakłonić wybranego NPC do wykonania naszego żądania. (Zdolność osobista)
+skl_engineer|Inżynieria
+skl_engineer_desc|Ta umiejętność pozwala skuteczniej konstruować sprzęt oblężniczy i wprowadzać udoskonalenia lenne. (Zdolność drużyny)
+skl_first_aid|Pierwsza pomoc 
+skl_first_aid_desc|Bohaterowie odzyskują 5%% utraconych punktów życia na każdy poziom tej umiejętności. (Zdolność drużyny)
+skl_surgery|Chirurgia
+skl_surgery_desc|Każdy punkt tej zdolności daje 4%% szansy na to, że krytycznie trafiony członek drużyny zostanie ranny, a nie zabity. (Zdolność drużyny)
+skl_wound_treatment|Opatrywanie ran
+skl_wound_treatment_desc|Tempo odzyskiwania zdrowia przez towarzyszy wzrasta o 20%% na każdy poziom tej zdolności. Dodatkowo daje 5%% szansy, że głębokie rany lepiej się zagoją.(Zdolność drużyny)
+skl_inventory_management|Zarządzanie ekwipunkiem
+skl_inventory_management_desc|Dodaje +6 miejsc w ekwipunku na każdy poziom tej zdolności. (Zdolność dowódcy)
+skl_spotting|Spostrzegawczość
+skl_spotting_desc|Pole widzenia drużyny powiększa się o 10%% na każdy poziom tej zdolności. (Zdolność drużyny)
+skl_pathfinding|Orientacja w terenie
+skl_pathfinding_desc|Tempo poruszania się drużyny po mapie wzrasta o 3%% na każdy poziom tej zdolności. (Zdolność drużyny)
+skl_tactics|Taktyka
+skl_tactics_desc|Na każde dwa zdobyte punkty tej zdolności początkowa przewaga w bitwie wzrasta o 1. (Zdolność drużyny)
+skl_tracking|Tropienie
+skl_tracking_desc|Ślady zawierają więcej informacji. (Zdolność drużyny)
+skl_trainer|Szkolenie
+skl_trainer_desc|Codziennie, każdy bohater z tą zdolnością dodaje trochę doświadczenia członkom drużyny, jeśli ich poziom jest niższy niż ich. Doświadczenie jakie mogą zdobyć: {0,4,10,16,23,30,38,46,55,65,80}. (Zdolność osobista)
+skl_reserved_5|Zdolność zagoją 5
+skl_reserved_5_desc|To jest zdolność zarezerwowana.
+skl_reserved_6|Zdolność zarezerwowana 6
+skl_reserved_6_desc|To jest zdolność zarezerwowana.
+skl_reserved_7|Zdolność zarezerwowana 7
+skl_reserved_7_desc|To jest zdolność zarezerwowana.
+skl_reserved_8|Zdolność zarezerwowana 8
+skl_reserved_8_desc|To jest zdolność zarezerwowana.
+skl_looting|Zdobywanie łupów
+skl_looting_desc|Ta zdolność powiększa liczbę zdobywanych łupów o 10%% na każdy poziom tej zdolności. (Zdolność drużyny)
+skl_horse_archery|Łucznictwo konne
+skl_horse_archery_desc|Redukuje karę do obrażeń i celności przy strzelaniu z łuku lub rzucaniu bronią miotaną w czasie jazdy konno. (Zdolność osobista)
+skl_riding|Jazda konna
+skl_riding_desc|Umożliwia dosiadanie coraz bardziej nieokiełznanych koni oraz zwiększa prędkość jazdy i zwrotność. Kiedy twój poziom będzie wynosił co najmniej 4 możliwe będzie wezwanie konia przyciskiem 'H' w trakcie bitwy.(Zdolność osobista)
+skl_athletics|Atletyka
+skl_athletics_desc|Poprawia szybkość biegu. (Zdolność osobista)
+skl_shield|Władanie tarczą
+skl_shield_desc|Redukuje uszkodzenia tarcz (o 8%% na każdy poziom tej zdolności), poprawia refleks i skuteczność obrony tarczą. (Zdolność osobista)
+skl_weapon_master|Władanie bronią
+skl_weapon_master_desc|Zwiększa limity sprawności w posługiwaniu się bronią. Następujące limity to: 60, 100, 140, 180, 220, 260, 300, 340, 380, 420. (Zdolność osobista)
+skl_maintenance|Konserwacja broni
+skl_maintenance_desc|Odpowiednia wiedza na temat utrzymania sprzętu sprawi , że nie będzie tak łatwo go złamać w walce. Każdy poziom tej zdolności redukuje szansę złamania o 7%%. (Zdolność osobista)
+skl_reserved_10|Zdolność zarezerwowana 10
+skl_reserved_10_desc|To jest zdolność zarezerwowana.
+skl_reserved_11|Zdolność zarezerwowana 11
+skl_reserved_11_desc|To jest zdolność zarezerwowana.
+skl_reserved_12|Zdolność zarezerwowana 12
+skl_reserved_12_desc|To jest zdolność zarezerwowana.
+skl_reserved_13|Zdolność zarezerwowana 13
+skl_reserved_13_desc|To jest zdolność zarezerwowana.
+skl_power_draw|Siła naciągu
+skl_power_draw_desc|Umożliwia korzystanie z potężniejszych łuków. Każdy poziom tej zdolności powiększa obrażenia zadawane z łuku o 14%%. (Zdolność osobista)
+skl_power_throw|Siła rzutu
+skl_power_throw_desc|Każdy poziom tej zdolności powiększa obrażenia od broni miotanej o 10%%. (Zdolność osobista)
+skl_power_strike|Siła ciosu
+skl_power_strike_desc|Każdy poziom tej zdolności zwiększa obrażenia od broni białej o 8%%. (Zdolność osobista)
+skl_ironflesh|Wytrzymałość
+skl_ironflesh_desc|Każdy poziom tej zdolności powiększa liczbę punktów życia o +2. (Zdolność osobista)
+skl_navigation|Nawigacja
+skl_navigation_desc|Prędkość poruszania się na morzu zwiększa się o 5%% na każdy poziom tej zdolności. (Zdolność drużyny)
+skl_sea_king|Król mórz
+skl_sea_king_desc|Każdy poziom tej zdolności zwiększa maksymalną liczbę statków którymi możesz dowodzić. (Zdolność dowódcy)
+skl_reserved_16|Zdolność zarezerwowana 16
+skl_reserved_16_desc|To jest zdolność zarezerwowana.
+skl_reserved_17|Zdolność zarezerwowana 17
+skl_reserved_17_desc|To jest zdolność zarezerwowana.
+skl_reserved_18|Zdolność zarezerwowana 18
+skl_reserved_18_desc|To jest zdolność zarezerwowana.
